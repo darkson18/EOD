@@ -1,0 +1,118 @@
+<dir>
+    <title>dir movies</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/direct%20movie%20links.xml</link>
+  </dir>
+ 
+  <dir>
+    <title>movie trialers</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/movie%20trialers.xml</link>
+  </dir>
+ 
+ <dir>
+    <title>UTube</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20trialers.xml</link>
+  </dir>
+  
+ <dir>
+    <title>black dir</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20black%20dir.xml</link>
+  </dir>
+  
+  <dir>
+    <title>hood dir</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20hood%20dir.xml</link>
+  </dir>
+
+   <dir>
+    <title>kng fu dir</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20kung%20fu.xml</link>
+  </dir>  
+<dir>
+<title>DC</title>
+<link>https://raw.githubusercontent.com/lost50/end-of-days/master/DC.xml</link>
+</dir>
+
+<dir>
+<title>mythology</title>
+<tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
+</dir>
+
+<dir>
+<title>EOD March</title>
+<tmdb>list/https://www.themoviedb.org/list/51732</tmdb>
+</dir>
+
+ <dir>
+<title>EOD Gangsta</title>
+<tmdb>list/51623</tmdb>
+</dir>
+
+ <dir>
+<title>EOD Her Picks</title>
+<tmdb>list/51606</tmdb>
+</dir>
+
+<dir>
+<title>EOD Sports Movies</title>
+<tmdb>list/51638</tmdb>
+</dir>
+
+<dir>
+<title>EOD Drama/Action/Thriller</title>
+<tmdb>list/51603</tmdb>
+</dir>
+
+<dir>
+<title>EOD Drama/Action</title>
+<tmdb>list/51664</tmdb>
+</dir>
+
+<dir>
+<title>EOD Kids</title>
+<tmdb>list/51604</tmdb>
+</dir>
+
+<dir>
+<title>Action movies </title>
+<tmdb>list/47583</tmdb>
+</dir>
+
+<dir>
+<title>EOD Action</title>
+<tmdb>list/47747</tmdb>
+</dir>
+<dir>
+<title>EOD Action 2</title>
+<tmdb>list/51663</tmdb>
+</dir>
+
+<dir>
+  <title>Drama/Action</title>
+  <tmdb>list/47844</tmdb>
+</dir>
+<dir>
+  <title>EOD List</title>
+  <tmdb>list/51661</tmdb>
+</dir>
+
+<dir>
+  <title>Chick Flicks</title>
+  <tmdb>list/47936</tmdb>
+</dir>
+  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
+ 
+<dir>
+	<title>IMDB Action TV Shows</title>
+	<imdburl>genres/action</imdburl>
+	<thumbnail></thumbnail>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb> 
+</dir>
+
